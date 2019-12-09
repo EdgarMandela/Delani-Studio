@@ -27,8 +27,8 @@ $(".toggleProductIcon").click(function() {
 
 });
 
-  $('.work1Logo').hover(function() {
-    alert('hovering')
-    $("#work1Text").show();
-  });
-});
+//   $('.work1Logo').hover(function() {
+//     alert('hovering')
+//     $("#work1Text").show();
+//   });
+// });

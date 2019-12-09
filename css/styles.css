@@ -1,3 +1,6 @@
+.card-img-overlay{
+  display:none;
+}
 .firstRow{
   background: url("../assets/backgrounds/h_img.jpg");
   color: aliceblue;
@@ -131,3 +134,8 @@ text-align: center;
   
   
 
+.portfolio img:hover{
+box-shadow: 0 0 10PX black,inset 0 0 1px white;
+background:#fff;
+;
+}
