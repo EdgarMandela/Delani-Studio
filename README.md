@@ -6,7 +6,8 @@
 { This application will allow user know their Akan Names based on their birth days}
 ## Setup/Installation Requirements
 * Installation of chrome browser
-
+## live link 
+https://edgarmandela.github.io/Delani-Studio/
 ## Known Bugs
 There are no bugs 
 ## Technologies Used
