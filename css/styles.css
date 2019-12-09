@@ -22,8 +22,7 @@ text-align: center;
     padding: 0px;
   }
   
- 
-.fourthRow {
+  .fourthRow {
     width: 100%;
     height: auto;
     margin-right: -20px;
@@ -48,6 +47,7 @@ text-align: center;
     padding: 20px;
     padding-bottom: 40px;
   }
+  
   .sixthRow {
     width: 100%;
     height: 400px;
@@ -57,7 +57,6 @@ text-align: center;
     background-size: cover;
     text-align: center;
   }
-  
   .contactUs{
     background: url("../assets/backgrounds/c_image.jpg");
 }
@@ -91,6 +90,7 @@ text-align: center;
     padding: 10px;
     position: relative;
   }
+
   .toggleDesignIcon {
     display: none;
     text-align: center;
@@ -108,7 +108,6 @@ text-align: center;
     text-align: center;
    
   }
-
   
   #Design {
     text-align: center;
@@ -128,3 +127,4 @@ text-align: center;
   }
   
   
+
