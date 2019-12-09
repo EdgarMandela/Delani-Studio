@@ -1,24 +1,28 @@
-.firstRow{
-  background: url("../assets/backgrounds/h_img.jpg");
-  text-align: center;
-}
+$(document).ready(function() {
+  $("#designIcon").click(function() {
+    $("#Design").hide();
+    $(".toggleDesignIcon").show();
+  });
+  $(".toggleDesignIcon").click(function() {
+    $(".toggleDesignIcon").hide();
+    $("#Design").show();
+  });
 
-.secondRow{
-text-align: center;
-}
-.thirdRow_a {
-  background: url("../assets/backgrounds/s_image.jpg")center,center;
-    text-align: center;
-}
-  .thirdRow_b {
-    width: 100%;
-    height: 300px;
-    margin-right: -20px;
-    margin-left: -20px;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    padding: 0px;
-  }
-  
+  $("#devIcon").click(function() {
+    $("#Development").hide();
+    $(".toggleDevIcon").show();
+  });
+  $(".toggleDevIcon").click(function() {
+    $(".toggleDevIcon").hide();
+    $("#Development").show();
+  });
+
+  $("#productIcon").click(function() {
+    $("#Product").hide();
+    $(".toggleProductIcon").show();
+  });
+  $(".toggleProductIcon").click(function() {
+    $(".toggleProductIcon").hide();
+    $("#Product").show();
+
+  });
