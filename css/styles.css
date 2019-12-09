@@ -71,3 +71,23 @@ text-align: center;
     text-align: center;
   }
   
+  
+  .portfolio {
+    margin: 10px;
+    text-align: center;
+    
+  }
+  
+  .contactUs {
+    margin-top: 20px;
+    position: relative;
+  }
+  
+  footer {
+    height: 150px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+  }
