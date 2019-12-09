@@ -26,3 +26,11 @@ $(document).ready(function() {
     $("#Product").show();
 
   });
+  $(document).ready(function() {
+    $('.work1Logo').hover(function() {
+      console.log('hovering')
+      $("#work1Text").show();
+    });
+  });
+
+  
