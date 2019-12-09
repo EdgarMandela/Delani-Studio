@@ -22,7 +22,8 @@ text-align: center;
     padding: 0px;
   }
   
-  .fourthRow {
+ 
+.fourthRow {
     width: 100%;
     height: auto;
     margin-right: -20px;
@@ -46,4 +47,13 @@ text-align: center;
     flex-wrap: wrap;
     padding: 20px;
     padding-bottom: 40px;
+  }
+  .sixthRow {
+    width: 100%;
+    height: 400px;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 0px 20px;
+    background-size: cover;
+    text-align: center;
   }
