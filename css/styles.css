@@ -91,3 +91,20 @@ text-align: center;
     padding: 10px;
     position: relative;
   }
+  .toggleDesignIcon {
+    display: none;
+    text-align: center;
+    
+  }
+  
+  .toggleDevIcon {
+    display: none;
+    text-align: center;
+  
+  }
+  
+  .toggleProductIcon {
+    display: none;
+    text-align: center;
+   
+  }
