@@ -26,9 +26,4 @@ $(".toggleProductIcon").click(function() {
   $("#Product").show();
 
 });
-
-//   $('.work1Logo').hover(function() {
-//     alert('hovering')
-//     $("#work1Text").show();
-//   });
-// });
+});
