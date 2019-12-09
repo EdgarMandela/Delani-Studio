@@ -24,11 +24,5 @@ $("#productIcon").click(function() {
 $(".toggleProductIcon").click(function() {
   $(".toggleProductIcon").hide();
   $("#Product").show();
-
 });
-
-//   $('.work1Logo').hover(function() {
-//     alert('hovering')
-//     $("#work1Text").show();
-//   });
-// });
+});
