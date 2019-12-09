@@ -108,3 +108,23 @@ text-align: center;
     text-align: center;
    
   }
+
+  
+  #Design {
+    text-align: center;
+  }
+  
+  #Development {
+    text-align: center;
+  }
+  
+  #Product {
+    text-align: center;
+  }
+  
+  .submit {
+    float: left;
+    border-radius: 2px;
+  }
+  
+  
