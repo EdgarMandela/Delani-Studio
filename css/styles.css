@@ -57,3 +57,17 @@ text-align: center;
     background-size: cover;
     text-align: center;
   }
+  
+  .contactUs{
+    background: url("../assets/backgrounds/c_image.jpg");
+}
+  .whatWeDo {
+    margin-top: 20px;
+    margin-right: -25px;
+    margin-left: -25px;
+    position: relative;
+  }
+  #whatWeDo_Header {
+    text-align: center;
+  }
+  
