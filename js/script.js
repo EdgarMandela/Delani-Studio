@@ -52,6 +52,7 @@ $("#pic8").hover(function(){
 
 });
 
+
 function form () {
   var name=document.getElementByid("mce-NAME nameInput").value;
   var email=document.getElementById("mce-EMAIL exampleFormControlInput1").value;
@@ -63,3 +64,9 @@ function form () {
     alert("Hey " + name +" Thank you for contacting us,we will get back to you shortly.");
   }
 }
+ 
+$(document).ready(function(){
+$("form").submit(function(){
+  alert("Thank you for reaching  out to us")
+});
+});
