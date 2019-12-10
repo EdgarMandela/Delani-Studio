@@ -133,3 +133,14 @@ text-align: center;
   font: 5px;
   color: blue;
 }
+placeholder{
+  width:50%;
+  padding-top: 50%;;
+}
+
+.form-control-lg{
+  width: 1600px;
+  height: 150px;
+  background: transparent;
+
+}
