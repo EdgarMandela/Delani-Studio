@@ -51,7 +51,7 @@ $("#pic8").hover(function(){
 });
 
 });
-// javascript code//
+
 function form () {
   var name=document.getElementByid("mce-NAME nameInput").value;
   var email=document.getElementById("mce-EMAIL exampleFormControlInput1").value;

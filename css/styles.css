@@ -5,7 +5,7 @@
   background: url("../assets/backgrounds/h_img.jpg");
   color: aliceblue;
   text-align: center;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 .secondRow{
